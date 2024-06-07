@@ -1,8 +1,14 @@
 Hi, I’m Beatriz Nattrodt D'Avila
 
-👩‍🎓 BsC in physics
+👩‍🎓 BsC in Physics
+👩‍🎓 Master in Physics
+👩‍🎓 PhD student in Physics
 
-💻 Data Scientist and Python Developer
+💻 Data Scientist
+💻 Developer
+💻 Python
+💻 PostgreSQL
+💻 GIS Developer
 
 
 How to contact me
